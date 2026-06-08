@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.7",
+	"EngineAssociation": "{3F00827A-40BC-F1E1-1E0D-E0940261D9B0}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -110,6 +110,22 @@
 		},
 		{
 			"Name": "Aura",
+			"Enabled": true
+		},
+		{
+			"Name": "JsonBlueprintUtilities",
+			"Enabled": true
+		},
+		{
+			"Name": "SerializationUtils",
+			"Enabled": true
+		},
+		{
+			"Name": "VaRestX",
+			"Enabled": true
+		},
+		{
+			"Name": "JWT",
 			"Enabled": true
 		}
 	]
